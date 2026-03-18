@@ -1,0 +1,35 @@
+﻿[2026-03-18 20:25:39] [DEBUG] DEBUG: Logger module loaded
+[2026-03-18 20:25:39] [INFO] INFO: Log file: C:\Users\Administrator\Desktop\精简脚本\logs\optimization-20260318-2025.log
+[2026-03-18 20:25:39] [INFO] HEADER: Game Optimization v4.0.0
+[2026-03-18 20:25:39] [SUCCESS] OK: Administrator privileges confirmed
+[2026-03-18 20:25:39] [INFO] STEP [0/10]: Creating system restore point
+[2026-03-18 20:25:39] [SUCCESS] OK: Restore point created
+[2026-03-18 20:25:39] [INFO] HEADER: Hardware Detection
+[2026-03-18 20:25:40] [SUCCESS] OK: GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+[2026-03-18 20:25:40] [INFO] INFO:   Vendor: NVIDIA
+[2026-03-18 20:25:40] [INFO] INFO:   VRAM: 4 GB
+[2026-03-18 20:25:40] [INFO] INFO:   Driver: 32.0.15.9579
+[2026-03-18 20:25:40] [SUCCESS] OK: System: 13th Gen Intel(R) Core(TM) i7-13650HX
+[2026-03-18 20:25:40] [INFO] INFO:   RAM: 14.75 / 23.8 GB free
+[2026-03-18 20:25:40] [INFO] HEADER: Running Optimizations
+[2026-03-18 20:25:40] [INFO] STEP [1/10]: Checking Hardware GPU Scheduling (HAGS)
+[2026-03-18 20:25:40] [SUCCESS] OK: HAGS already enabled
+[2026-03-18 20:25:40] [INFO] STEP [2/10]: Checking Windows Game Mode
+[2026-03-18 20:25:40] [SUCCESS] OK: Game Mode already enabled
+[2026-03-18 20:25:40] [INFO] STEP [3/10]: Activating High Performance Power Plan
+[2026-03-18 20:25:41] [SUCCESS] OK: High Performance power plan activated
+[2026-03-18 20:25:41] [INFO] STEP [4/10]: Optimizing Game Process Priority
+[2026-03-18 20:25:41] [SUCCESS] OK: Game priority optimized (1 tasks)
+[2026-03-18 20:25:41] [INFO] STEP [5/10]: Configuring Memory Compression
+[2026-03-18 20:25:41] [SUCCESS] OK: Memory compression already disabled
+[2026-03-18 20:25:41] [INFO] STEP [6/10]: Optimizing Network for Gaming
+[2026-03-18 20:25:41] [SUCCESS] OK: Network optimized for gaming
+[2026-03-18 20:25:41] [INFO] STEP [7/10]: Disabling Visual Effects
+[2026-03-18 20:25:41] [SUCCESS] OK: Visual effects optimized for performance
+[2026-03-18 20:25:41] [INFO] STEP [8/10]: Clearing Standby Memory
+[2026-03-18 20:25:41] [INFO] INFO: EmptyStandbyList not available (optional Windows SDK tool)
+[2026-03-18 20:25:41] [INFO] STEP [9/10]: Disabling Background Apps
+[2026-03-18 20:25:41] [SUCCESS] OK: Background apps disabled
+[2026-03-18 20:25:41] [INFO] HEADER: Optimization Summary
+[2026-03-18 20:25:41] [INFO] INFO:   This is normal for already optimized settings
+[2026-03-18 20:25:41] [INFO] STEP [10/10]: System Status

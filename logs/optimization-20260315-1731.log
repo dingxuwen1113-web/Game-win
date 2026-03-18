@@ -1,0 +1,30 @@
+﻿[2026-03-15 17:31:50] [DEBUG] DEBUG: Logger module loaded
+[2026-03-15 17:31:50] [INFO] INFO: Log file: C:\Users\Administrator\Desktop\精简脚本\logs\optimization-20260315-1731.log
+[2026-03-15 17:31:50] [INFO] HEADER: Windows 11 Animation Fix v1.0.0
+[2026-03-15 17:31:50] [INFO] HEADER: Current Settings
+[2026-03-15 17:31:50] [INFO] STATUS: Window Animations = Enabled
+[2026-03-15 17:31:50] [INFO] STATUS: Transparency Effects = Enabled
+[2026-03-15 17:31:50] [INFO] STATUS: Smooth Scrolling = Enabled
+[2026-03-15 17:31:50] [INFO] STATUS: Font Smoothing = Enabled
+[2026-03-15 17:32:06] [INFO] HEADER: Enabling All Animations
+[2026-03-15 17:32:06] [INFO] STEP [1/8]: Configuring Window Animations
+[2026-03-15 17:32:06] [SUCCESS] OK: Window animations enabled
+[2026-03-15 17:32:06] [INFO] STEP [2/8]: Configuring Transparency Effects
+[2026-03-15 17:32:06] [SUCCESS] OK: Transparency effects enabled
+[2026-03-15 17:32:06] [INFO] STEP [3/8]: Configuring Smooth Scrolling
+[2026-03-15 17:32:06] [SUCCESS] OK: Smooth scrolling enabled
+[2026-03-15 17:32:06] [INFO] STEP [4/8]: Configuring Fade Effects
+[2026-03-15 17:32:06] [SUCCESS] OK: Fade effects enabled
+[2026-03-15 17:32:06] [INFO] STEP [5/8]: Configuring Shadow Effects
+[2026-03-15 17:32:06] [SUCCESS] OK: Shadow effects enabled
+[2026-03-15 17:32:06] [INFO] STEP [7/8]: Configuring Font Smoothing
+[2026-03-15 17:32:06] [SUCCESS] OK: Font smoothing configured (ClearType)
+[2026-03-15 17:32:06] [INFO] STEP [6/8]: Fixing Animation Stuttering
+[2026-03-15 17:32:06] [SUCCESS] OK: GPU performance mode enabled
+[2026-03-15 17:32:06] [SUCCESS] OK: Window rendering optimized
+[2026-03-15 17:32:07] [SUCCESS] OK: Hardware acceleration enabled
+[2026-03-15 17:32:07] [SUCCESS] OK: Animation stuttering fixes applied (3)
+[2026-03-15 17:32:07] [INFO] STEP [8/8]: Applying Changes
+[2026-03-15 17:32:08] [SUCCESS] OK: Explorer restarted
+[2026-03-15 17:32:08] [INFO] INFO: Desktop will flicker briefly
+[2026-03-15 17:32:08] [INFO] HEADER: Summary
