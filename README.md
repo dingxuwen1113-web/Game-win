@@ -476,6 +476,6 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 **最后更新:** 2026-03-15  
 **维护者:** Windows 11 Optimization Suite Team  
-**重构者:** 小智
+**重构者:** 丁旭文
 
 🎮 **Happy Gaming!** 🎮
